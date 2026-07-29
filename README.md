@@ -25,7 +25,7 @@ Still early — the overlay, parser, and matcher work; live trade search and pri
 
 Go · PostgreSQL · Redis · S3-compatible object storage · Docker
 
-Co-author on the backend of a commercial content platform — one of two main contributors.
+Co-author on the backend of a multi-client content platform — one of two main contributors.
 
 - Authentication, role and permission handling, subscription tiers, and an admin audit trail.
 - Media upload and delivery through S3-compatible object storage, with Redis caching.
