@@ -46,7 +46,7 @@ Co-author on the backend of a multi-client content platform — one of two main 
 ### Stack
 
 **Comfortable:** Go · TypeScript · Python · PostgreSQL · Docker · Redis
-**Working knowledge:** Electron · Wails · C++ (native interop) · Laravel · React
+**Working knowledge:** Electron · Wails · C++ (native interop) · React · Vite
 
 ---
 
